@@ -1,0 +1,13 @@
+C:\projects\Klass.Home\Klass.Home\obj\Debug\netcoreapp3.1\Klass.Home.csprojAssemblyReference.cache
+C:\projects\Klass.Home\Klass.Home\obj\Debug\netcoreapp3.1\Klass.Home.csproj.CoreCompileInputs.cache
+C:\projects\Klass.Home\Klass.Home\obj\Debug\netcoreapp3.1\Klass.Home.AssemblyInfoInputs.cache
+C:\projects\Klass.Home\Klass.Home\obj\Debug\netcoreapp3.1\Klass.Home.AssemblyInfo.cs
+C:\projects\Klass.Home\Klass.Home\bin\Debug\netcoreapp3.1\Klass.Home.exe
+C:\projects\Klass.Home\Klass.Home\bin\Debug\netcoreapp3.1\Klass.Home.deps.json
+C:\projects\Klass.Home\Klass.Home\bin\Debug\netcoreapp3.1\Klass.Home.runtimeconfig.json
+C:\projects\Klass.Home\Klass.Home\bin\Debug\netcoreapp3.1\Klass.Home.runtimeconfig.dev.json
+C:\projects\Klass.Home\Klass.Home\bin\Debug\netcoreapp3.1\Klass.Home.dll
+C:\projects\Klass.Home\Klass.Home\bin\Debug\netcoreapp3.1\Klass.Home.pdb
+C:\projects\Klass.Home\Klass.Home\obj\Debug\netcoreapp3.1\Klass.Home.dll
+C:\projects\Klass.Home\Klass.Home\obj\Debug\netcoreapp3.1\Klass.Home.pdb
+C:\projects\Klass.Home\Klass.Home\obj\Debug\netcoreapp3.1\Klass.Home.genruntimeconfig.cache
